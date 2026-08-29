@@ -1,0 +1,61 @@
+about:
+  description: Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
+  license: Apache-2.0
+  homepage: https://github.com/domcyrus/rustnet#quick-start
+  head: dd23287
+  archived: false
+  latestVersion: v1.6.0
+  collectedAt: 2026-08-29T07:11:53Z
+timeline:
+  created: 2025-04-27
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-20
+popularity:
+  star: 4964
+  watcher: 26
+  fork: 230
+  release: 25
+  contributor: 8
+  pullRequest: 42
+  issue: 74
+language:
+  Rust: 2481930
+  Shell: 20429
+  Python: 15490
+  C: 13749
+  Tape: 6498
+  Dockerfile: 4538
+totalLine: 2542634
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 66
+    openPR: 2
+    closedIssue: 1
+    openIssue: 0
+    commit: 66
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 165
+    openPR: 3
+    closedIssue: 13
+    openIssue: 4
+    commit: 166
+  last180d:
+    since: 2026-03-02
+    release: 6
+    mergedPR: 280
+    openPR: 5
+    closedIssue: 30
+    openIssue: 10
+    commit: 296
+  last360d:
+    since: 2025-09-03
+    release: 21
+    mergedPR: 416
+    openPR: 5
+    closedIssue: 64
+    openIssue: 10
+    commit: 535
