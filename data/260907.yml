@@ -5,13 +5,13 @@ about:
   head: 747f265
   archived: false
   latestVersion: "v1.6.0"
-  collectedAt: 2026-09-07T04:38:37Z
+  collectedAt: 2026-09-07T20:02:22Z
 timeline:
   created: 2025-04-27
   lastCommit: 2026-09-04
   lastRelease: 2026-08-20
 popularity:
-  star: 4997
+  star: 5000
   watcher: 31
   fork: 231
   release: 25
@@ -84,7 +84,7 @@ total:
   commit: 729
 ---
 path: /home/runner/.x-repo/github.com/domcyrus/rustnet
-collectedAt: 2026-09-07T04:38:42Z
+collectedAt: 2026-09-07T20:02:25Z
 loc:
   CHeader:
     code: 132352
@@ -145,7 +145,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:38:43+00:00
+  collectedAt: 2026-09-07T20:02:26+00:00
   platform:
     darwin/arm64:
       name:  rustnet-v1.6.0-aarch64-apple-darwin.tar.gz
