@@ -1,6 +1,24 @@
----
-owner-repo: domcyrus/rustnet
-desc:   Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed. 
----
-
 # rustnet
+
+Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
+
+- **Upstream**: <https://github.com/domcyrus/rustnet>
+- **Homepage**: <https://github.com/domcyrus/rustnet#quick-start>
+- **Latest release**: `v1.6.0` (2026-08-20)
+- **Last commit**: 2026-09-04
+- **License**: Apache-2.0
+- **Stars**: 5002 · **Forks**: 231 · **Open issues**: 74 · **Contributors**: 8
+
+## Installation
+
+```sh
+x install rustnet
+```
+
+See <https://x-cmd.com/install/rustnet> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T10:23:48Z._
