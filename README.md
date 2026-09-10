@@ -23,11 +23,37 @@ x install rustnet
 - **Latest**: `v1.6.0` (2026-08-20)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 22
-- **Published**: 2026-08-20T19:21:44Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [rustnet-v1.6.0-aarch64-apple-darwin.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-aarch64-apple-darwin.tar.gz) | 2.2 MiB | `native/darwin/arm64` |
+| [rustnet-v1.6.0-aarch64-linux-android-musl.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-aarch64-linux-android-musl.tar.gz) | 2.6 MiB | `native/linux/arm64/musl` |
+| [rustnet-v1.6.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-aarch64-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/arm64/glibc` |
+| [rustnet-v1.6.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-aarch64-unknown-linux-musl.tar.gz) | 3.1 MiB | `native/linux/arm64/musl` |
+| [rustnet-v1.6.0-armv7-linux-android-musl.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-armv7-linux-android-musl.tar.gz) | 2.7 MiB | `native/linux/arm/musl` |
+| [rustnet-v1.6.0-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-armv7-unknown-linux-gnueabihf.tar.gz) | 2.7 MiB | `native/linux/arm/glibc` |
+| [rustnet-v1.6.0-i686-linux-android-musl.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-i686-linux-android-musl.tar.gz) | 2.8 MiB | `native/linux/x86/musl` |
+| [rustnet-v1.6.0-i686-pc-windows-msvc.zip](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-i686-pc-windows-msvc.zip) | 2.1 MiB | `native/win/x64` |
+| [rustnet-v1.6.0-x86_64-apple-darwin.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-x86_64-apple-darwin.tar.gz) | 2.3 MiB | `native/darwin/x64` |
+| [rustnet-v1.6.0-x86_64-linux-android-musl.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-x86_64-linux-android-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
+| [rustnet-v1.6.0-x86_64-pc-windows-msvc.zip](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-x86_64-pc-windows-msvc.zip) | 2.2 MiB | `native/win/x64` |
+| [rustnet-v1.6.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-x86_64-unknown-linux-gnu.tar.gz) | 2.8 MiB | `native/linux/x64/glibc` |
+| [rustnet-v1.6.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-x86_64-unknown-linux-musl.tar.gz) | 3.3 MiB | `native/linux/x64/musl` |
+| [Rustnet_LinuxDEB_amd64.deb](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_LinuxDEB_amd64.deb) | 2.3 MiB | `native/linux/x64` |
+| [Rustnet_LinuxDEB_arm64.deb](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_LinuxDEB_arm64.deb) | 2.1 MiB | `native/linux/arm64` |
+| [Rustnet_LinuxDEB_armhf.deb](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_LinuxDEB_armhf.deb) | 2.1 MiB | `native/linux/arm` |
+| [Rustnet_LinuxRPM_aarch64.rpm](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_LinuxRPM_aarch64.rpm) | 2.3 MiB | `native/linux/arm64` |
+| [Rustnet_LinuxRPM_x86_64.rpm](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_LinuxRPM_x86_64.rpm) | 2.4 MiB | `native/linux/x64` |
+| [Rustnet_macOS_AppleSilicon.dmg](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_macOS_AppleSilicon.dmg) | 2.9 MiB | `native/darwin/x64` |
+| [Rustnet_macOS_Intel.dmg](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_macOS_Intel.dmg) | 3.0 MiB | `native/darwin/x64` |
+| [Rustnet_Windows_32-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_Windows_32-bit.msi) | 2.5 MiB | `native/win/x64` |
+| [Rustnet_Windows_64-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_Windows_64-bit.msi) | 2.5 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 5,012 · **Forks**: 232 · **Open issues**: 74 · **Contributors**: 8
+- **Stars**: 5,014 · **Forks**: 232 · **Open issues**: 74 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -58,8 +84,8 @@ Total: **184,246** lines of code across **176** files in the top 5 languages.
 Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rustnet` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/rustnet.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/rustnet.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:36:24Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:01:41Z._
