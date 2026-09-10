@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.0"
   latestRelease: "v1.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:36:17Z
+  collectedAt: 2026-09-10T16:01:23Z
 timeline:
   created: 2025-04-27
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-20
   lastPrerelease: 
 popularity:
-  star: 5012
+  star: 5014
   watcher: 31
   fork: 232
   release: 25
@@ -88,7 +88,7 @@ total:
   commit: 731
 ---
 path: /home/runner/.x-repo/github.com/domcyrus/rustnet
-collectedAt: 2026-09-10T04:36:21Z
+collectedAt: 2026-09-10T16:01:31Z
 loc:
   CHeader:
     code: 132352
