@@ -38,7 +38,7 @@ x install rustnet
 
 ## 流行度
 
-- **Star**: 5,019 · **Fork**: 232 · **开放 issue**: 74 · **贡献者**: 8
+- **Star**: 5,020 · **Fork**: 233 · **开放 issue**: 74 · **贡献者**: 8
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install rustnet
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 54 | 6 | 1 | 0 | 55 |
-| last60d | 2026-07-13 | 2 | 125 | 6 | 3 | 1 | 119 |
-| 90d | 2026-06-13 | 3 | 168 | 7 | 13 | 3 | 166 |
-| last180d | 2026-03-15 | 6 | 283 | 9 | 30 | 10 | 293 |
-| 360d | 2025-09-16 | 17 | 425 | 9 | 58 | 10 | 516 |
-| last720d | 2024-09-21 | 25 | 428 | 9 | 64 | 10 | 731 |
+| 30d | 2026-08-15 | 1 | 36 | 6 | 1 | 0 | 31 |
+| last60d | 2026-07-16 | 2 | 118 | 6 | 3 | 1 | 104 |
+| 90d | 2026-06-16 | 3 | 160 | 7 | 8 | 3 | 159 |
+| last180d | 2026-03-18 | 5 | 279 | 9 | 29 | 10 | 277 |
+| 360d | 2025-09-19 | 16 | 424 | 9 | 56 | 10 | 513 |
+| last720d | 2024-09-24 | 25 | 428 | 9 | 64 | 10 | 731 |
 
 ## Release 资产
 
@@ -82,17 +82,6 @@ x install rustnet
 | [Rustnet_Windows_32-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_Windows_32-bit.msi) | 2.5 MiB | `native/win/x64` |
 | [Rustnet_Windows_64-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.6.0/Rustnet_Windows_64-bit.msi) | 2.5 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/rustnet) 上共有 **22** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.6.0` | ✅ latest |
-| Homebrew | `1.6.0` | ✅ latest |
-| Nix unstable | `1.6.0` | ✅ latest |
-| Void | `1.6.0` | ✅ latest |
-
 ## 改进这些数据
 
 rustnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `rustnet` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -102,4 +91,4 @@ rustnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T20:35:38Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:04:25Z._
