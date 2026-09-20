@@ -4,7 +4,7 @@
 
 Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 
-![rustnet](https://repo.x-cmd.io/rustnet.svg?lang=zh)
+[![x-cmd/install — rustnet Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rustnet.svg?lang=zh)](https://x-cmd.com/install/rustnet)
 
 ## 安装
 
@@ -33,27 +33,27 @@ x install rustnet
 ## 发布
 
 - **最新版本**: `v1.6.0` (2026-08-20)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 22 个
 
 ## 流行度
 
-- **Star**: 5,030 · **Fork**: 235 · **开放 issue**: 101 · **贡献者**: 10
+- **Star**: 5,038 · **Fork**: 235 · **开放 issue**: 101 · **贡献者**: 10
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 449 · **开放 PR**: 14 · **已关闭 issue**: 83 · **开放 issue**: 18 · **提交数**: 734
+- **发布数**: 25 · **已合并 PR**: 452 · **开放 PR**: 14 · **已关闭 issue**: 83 · **开放 issue**: 18 · **提交数**: 737
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 38 | 6 | 2 | 0 | 34 |
-| last60d | 2026-07-20 | 2 | 114 | 6 | 4 | 1 | 107 |
-| 90d | 2026-06-20 | 2 | 159 | 9 | 7 | 6 | 167 |
-| last180d | 2026-03-22 | 5 | 296 | 14 | 48 | 18 | 297 |
-| 360d | 2025-09-23 | 16 | 445 | 14 | 75 | 18 | 533 |
-| last720d | 2024-09-28 | 25 | 449 | 14 | 83 | 18 | 734 |
+| 30d | 2026-08-21 | 0 | 33 | 6 | 2 | 0 | 37 |
+| last60d | 2026-07-22 | 1 | 110 | 6 | 4 | 1 | 110 |
+| 90d | 2026-06-22 | 2 | 162 | 9 | 7 | 5 | 170 |
+| last180d | 2026-03-24 | 5 | 298 | 14 | 48 | 18 | 300 |
+| 360d | 2025-09-25 | 16 | 448 | 14 | 73 | 18 | 536 |
+| last720d | 2024-09-30 | 25 | 452 | 14 | 83 | 18 | 737 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ rustnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:53:40Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:02:10Z._
