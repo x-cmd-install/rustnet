@@ -33,27 +33,27 @@ Total: **202,093** lines of code across **206** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.0` (2026-10-06)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 5,101 · **Forks**: 239 · **Open issues**: 105 · **Contributors**: 11
+- **Stars**: 5,107 · **Forks**: 239 · **Open issues**: 106 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 501 · **Open PRs**: 10 · **Closed issues**: 85 · **Open issues**: 20 · **Commits**: 785
+- **Releases**: 26 · **Merged PRs**: 502 · **Open PRs**: 9 · **Closed issues**: 86 · **Open issues**: 20 · **Commits**: 786
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 53 | 1 | 3 | 2 | 54 |
-| last60d | 2026-08-08 | 2 | 117 | 2 | 4 | 2 | 112 |
-| 90d | 2026-07-09 | 3 | 182 | 2 | 6 | 3 | 178 |
-| last180d | 2026-04-10 | 5 | 324 | 10 | 50 | 20 | 321 |
-| 360d | 2025-10-12 | 13 | 478 | 10 | 64 | 20 | 519 |
-| last720d | 2024-10-17 | 26 | 501 | 10 | 85 | 20 | 785 |
+| 30d | 2026-09-08 | 1 | 54 | 0 | 4 | 2 | 55 |
+| last60d | 2026-08-09 | 2 | 115 | 1 | 5 | 2 | 113 |
+| 90d | 2026-07-10 | 3 | 181 | 1 | 7 | 3 | 179 |
+| last180d | 2026-04-11 | 5 | 325 | 9 | 51 | 20 | 322 |
+| 360d | 2025-10-13 | 12 | 479 | 9 | 65 | 20 | 520 |
+| last720d | 2024-10-18 | 26 | 502 | 9 | 86 | 20 | 786 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:58:08Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:07:20Z._
