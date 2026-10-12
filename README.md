@@ -14,12 +14,12 @@ x install rustnet
 
 ## Code insight
 
-Total: **202,103** lines of code across **206** files in the top 5 languages.
+Total: **202,239** lines of code across **206** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 132,473 | 43 | 17,620 | 5 |
-| Rust | 68,033 | 3,687 | 7,910 | 184 |
+| Rust | 68,169 | 3,690 | 7,919 | 184 |
 | Python | 489 | 28 | 89 | 4 |
 | Toml | 371 | 59 | 50 | 6 |
 | Sh | 357 | 124 | 78 | 7 |
@@ -33,27 +33,27 @@ Total: **202,103** lines of code across **206** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.0` (2026-10-06)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-11
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 5,127 · **Forks**: 239 · **Open issues**: 106 · **Contributors**: 11
+- **Stars**: 5,131 · **Forks**: 239 · **Open issues**: 106 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 504 · **Open PRs**: 10 · **Closed issues**: 86 · **Open issues**: 20 · **Commits**: 788
+- **Releases**: 26 · **Merged PRs**: 505 · **Open PRs**: 9 · **Closed issues**: 87 · **Open issues**: 19 · **Commits**: 789
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 54 | 1 | 4 | 2 | 57 |
-| last60d | 2026-08-12 | 2 | 112 | 2 | 5 | 2 | 115 |
-| 90d | 2026-07-13 | 3 | 183 | 2 | 7 | 3 | 181 |
-| last180d | 2026-04-14 | 5 | 324 | 10 | 51 | 20 | 324 |
-| 360d | 2025-10-16 | 12 | 469 | 10 | 65 | 20 | 522 |
-| last720d | 2024-10-21 | 26 | 504 | 10 | 86 | 20 | 788 |
+| 30d | 2026-09-12 | 1 | 55 | 0 | 5 | 1 | 55 |
+| last60d | 2026-08-13 | 2 | 111 | 1 | 6 | 1 | 95 |
+| 90d | 2026-07-14 | 3 | 179 | 1 | 8 | 2 | 170 |
+| last180d | 2026-04-15 | 5 | 325 | 9 | 52 | 19 | 323 |
+| 360d | 2025-10-17 | 12 | 470 | 9 | 66 | 19 | 520 |
+| last720d | 2024-10-22 | 26 | 505 | 9 | 87 | 19 | 789 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:55:47Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:02:41Z._
