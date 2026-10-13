@@ -33,27 +33,27 @@ Total: **202,239** lines of code across **206** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.0` (2026-10-06)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-13
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 5,131 · **Forks**: 239 · **Open issues**: 106 · **Contributors**: 11
+- **Stars**: 5,130 · **Forks**: 239 · **Open issues**: 106 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 505 · **Open PRs**: 9 · **Closed issues**: 87 · **Open issues**: 19 · **Commits**: 789
+- **Releases**: 26 · **Merged PRs**: 507 · **Open PRs**: 9 · **Closed issues**: 87 · **Open issues**: 19 · **Commits**: 791
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 55 | 0 | 5 | 1 | 55 |
-| last60d | 2026-08-13 | 2 | 111 | 1 | 6 | 1 | 95 |
-| 90d | 2026-07-14 | 3 | 179 | 1 | 8 | 2 | 170 |
-| last180d | 2026-04-15 | 5 | 325 | 9 | 52 | 19 | 323 |
-| 360d | 2025-10-17 | 12 | 470 | 9 | 66 | 19 | 520 |
-| last720d | 2024-10-22 | 26 | 505 | 9 | 87 | 19 | 789 |
+| 30d | 2026-09-13 | 1 | 57 | 0 | 5 | 1 | 57 |
+| last60d | 2026-08-14 | 2 | 101 | 1 | 6 | 1 | 97 |
+| 90d | 2026-07-15 | 3 | 180 | 1 | 8 | 2 | 172 |
+| last180d | 2026-04-16 | 5 | 327 | 9 | 52 | 19 | 325 |
+| 360d | 2025-10-18 | 12 | 472 | 9 | 66 | 19 | 522 |
+| last720d | 2024-10-23 | 26 | 507 | 9 | 87 | 19 | 791 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:02:41Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:52:02Z._
