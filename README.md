@@ -14,12 +14,12 @@ x install rustnet
 
 ## Code insight
 
-Total: **207,593** lines of code across **218** files in the top 5 languages.
+Total: **207,251** lines of code across **218** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 132,489 | 47 | 17,623 | 5 |
-| Rust | 73,507 | 3,783 | 8,174 | 196 |
+| Rust | 73,165 | 3,715 | 8,057 | 196 |
 | Python | 489 | 28 | 89 | 4 |
 | Toml | 371 | 59 | 50 | 6 |
 | Sh | 357 | 124 | 78 | 7 |
@@ -33,27 +33,27 @@ Total: **207,593** lines of code across **218** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.0` (2026-10-06)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 5,151 · **Forks**: 242 · **Open issues**: 109 · **Contributors**: 12
+- **Stars**: 5,156 · **Forks**: 242 · **Open issues**: 109 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 522 · **Open PRs**: 11 · **Closed issues**: 89 · **Open issues**: 20 · **Commits**: 806
+- **Releases**: 26 · **Merged PRs**: 523 · **Open PRs**: 10 · **Closed issues**: 90 · **Open issues**: 19 · **Commits**: 807
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 61 | 2 | 5 | 2 | 59 |
-| last60d | 2026-08-23 | 1 | 90 | 3 | 7 | 2 | 90 |
-| 90d | 2026-07-24 | 2 | 176 | 3 | 10 | 2 | 173 |
-| last180d | 2026-04-25 | 5 | 337 | 11 | 53 | 20 | 332 |
-| 360d | 2025-10-27 | 11 | 479 | 11 | 67 | 20 | 531 |
-| last720d | 2024-11-01 | 26 | 522 | 11 | 89 | 20 | 806 |
+| 30d | 2026-09-23 | 1 | 62 | 1 | 6 | 1 | 60 |
+| last60d | 2026-08-24 | 1 | 90 | 2 | 8 | 1 | 91 |
+| 90d | 2026-07-25 | 2 | 177 | 2 | 11 | 1 | 174 |
+| last180d | 2026-04-26 | 5 | 335 | 10 | 54 | 19 | 333 |
+| 360d | 2025-10-28 | 11 | 480 | 10 | 67 | 19 | 532 |
+| last720d | 2024-11-02 | 26 | 523 | 10 | 90 | 19 | 807 |
 
 ## Release assets
 
@@ -82,6 +82,18 @@ Total: **207,593** lines of code across **218** files in the top 5 languages.
 | [Rustnet_Windows_32-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_Windows_32-bit.msi) | 2.4 MiB | `native/win/x64` |
 | [Rustnet_Windows_64-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_Windows_64-bit.msi) | 2.5 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **27** distros on [repology.org](https://repology.org/project/rustnet). **14** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.7.0` | ✅ latest |
+| Homebrew | `1.7.0` | ✅ latest |
+| Nix unstable | `1.6.0` | ⚠️ outdated |
+| Void | `1.7.0` | ✅ latest |
+| Alpine edge | `1.7.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rustnet` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +103,4 @@ Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:51:45Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:50:57Z._

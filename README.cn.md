@@ -14,12 +14,12 @@ x install rustnet
 
 ## 代码洞察
 
-合计: **207,593** 行代码（覆盖前 5 种语言、共 **218** 个文件）。
+合计: **207,251** 行代码（覆盖前 5 种语言、共 **218** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | CHeader | 132,489 | 47 | 17,623 | 5 |
-| Rust | 73,507 | 3,783 | 8,174 | 196 |
+| Rust | 73,165 | 3,715 | 8,057 | 196 |
 | Python | 489 | 28 | 89 | 4 |
 | Toml | 371 | 59 | 50 | 6 |
 | Sh | 357 | 124 | 78 | 7 |
@@ -33,27 +33,27 @@ x install rustnet
 ## 发布
 
 - **最新版本**: `v1.7.0` (2026-10-06)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 22 个
 
 ## 流行度
 
-- **Star**: 5,151 · **Fork**: 242 · **开放 issue**: 109 · **贡献者**: 12
+- **Star**: 5,156 · **Fork**: 242 · **开放 issue**: 109 · **贡献者**: 12
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 522 · **开放 PR**: 11 · **已关闭 issue**: 89 · **开放 issue**: 20 · **提交数**: 806
+- **发布数**: 26 · **已合并 PR**: 523 · **开放 PR**: 10 · **已关闭 issue**: 90 · **开放 issue**: 19 · **提交数**: 807
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 61 | 2 | 5 | 2 | 59 |
-| last60d | 2026-08-23 | 1 | 90 | 3 | 7 | 2 | 90 |
-| 90d | 2026-07-24 | 2 | 176 | 3 | 10 | 2 | 173 |
-| last180d | 2026-04-25 | 5 | 337 | 11 | 53 | 20 | 332 |
-| 360d | 2025-10-27 | 11 | 479 | 11 | 67 | 20 | 531 |
-| last720d | 2024-11-01 | 26 | 522 | 11 | 89 | 20 | 806 |
+| 30d | 2026-09-23 | 1 | 62 | 1 | 6 | 1 | 60 |
+| last60d | 2026-08-24 | 1 | 90 | 2 | 8 | 1 | 91 |
+| 90d | 2026-07-25 | 2 | 177 | 2 | 11 | 1 | 174 |
+| last180d | 2026-04-26 | 5 | 335 | 10 | 54 | 19 | 333 |
+| 360d | 2025-10-28 | 11 | 480 | 10 | 67 | 19 | 532 |
+| last720d | 2024-11-02 | 26 | 523 | 10 | 90 | 19 | 807 |
 
 ## Release 资产
 
@@ -82,6 +82,18 @@ x install rustnet
 | [Rustnet_Windows_32-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_Windows_32-bit.msi) | 2.4 MiB | `native/win/x64` |
 | [Rustnet_Windows_64-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_Windows_64-bit.msi) | 2.5 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/rustnet) 上共有 **27** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.7.0` | ✅ latest |
+| Homebrew | `1.7.0` | ✅ latest |
+| Nix unstable | `1.6.0` | ⚠️ outdated |
+| Void | `1.7.0` | ✅ latest |
+| Alpine edge | `1.7.0` | ✅ latest |
+
 ## 改进这些数据
 
 rustnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `rustnet` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -91,4 +103,4 @@ rustnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:51:45Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:50:58Z._
