@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2533532,
       "digest": "sha256:30619de4e63e1f57f4d57e277c8899641adc576e385e9bcfea751cadf433f7ac",
-      "download_count": 340,
+      "download_count": 348,
       "created_at": "2026-10-06T18:30:14Z",
       "updated_at": "2026-10-06T18:30:14Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/rustnet-v1.7.0-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3062962,
       "digest": "sha256:03ee1f24e30eeecb1a8ae0d8c9b83120618cf859556190abce8337c31b89c7c5",
-      "download_count": 83,
+      "download_count": 85,
       "created_at": "2026-10-06T18:30:17Z",
       "updated_at": "2026-10-06T18:30:17Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/rustnet-v1.7.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3605357,
       "digest": "sha256:5e876b1bdac83df71a2c413635e40183db643a284ace4751aad6fe06fe2e07fa",
-      "download_count": 129,
+      "download_count": 138,
       "created_at": "2026-10-06T18:30:18Z",
       "updated_at": "2026-10-06T18:30:19Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/rustnet-v1.7.0-aarch64-unknown-linux-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3263485,
       "digest": "sha256:ddfcb60323f2ce4ff2de18e7cac415551176230bbce315282c14d2a93ec33323",
-      "download_count": 31,
+      "download_count": 33,
       "created_at": "2026-10-06T18:30:21Z",
       "updated_at": "2026-10-06T18:30:22Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/rustnet-v1.7.0-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2670274,
       "digest": "sha256:c784092933c78f3d99d21aa89740ae51635ebe4c282f0a1f105865343252533f",
-      "download_count": 97,
+      "download_count": 99,
       "created_at": "2026-10-06T18:30:25Z",
       "updated_at": "2026-10-06T18:30:26Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/rustnet-v1.7.0-x86_64-apple-darwin.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3168661,
       "digest": "sha256:fde2ad3916d256c18f716679c85c03388b4ff02a89fabdb5f0a78698f4091af4",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-10-06T18:30:27Z",
       "updated_at": "2026-10-06T18:30:28Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/rustnet-v1.7.0-x86_64-linux-android-musl.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2587715,
       "digest": "sha256:33f1814964e5f281608a9b012ac5695dfe27bce4a52e462fb1679ac8149fdd5d",
-      "download_count": 401,
+      "download_count": 422,
       "created_at": "2026-10-06T18:30:29Z",
       "updated_at": "2026-10-06T18:30:30Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/rustnet-v1.7.0-x86_64-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3238878,
       "digest": "sha256:1c97c175193b204def364252afe4edc6cf8ec47f802e103f739bfe89cdaf07b2",
-      "download_count": 247,
+      "download_count": 254,
       "created_at": "2026-10-06T18:30:31Z",
       "updated_at": "2026-10-06T18:30:31Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/rustnet-v1.7.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3815273,
       "digest": "sha256:65b3436fc244352941252ed54a31076924012f7643d8fc2215f9bae3816245d1",
-      "download_count": 251,
+      "download_count": 320,
       "created_at": "2026-10-06T18:30:32Z",
       "updated_at": "2026-10-06T18:30:33Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/rustnet-v1.7.0-x86_64-unknown-linux-musl.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2424844,
       "digest": "sha256:af26784004ceed0fb7de706a4bed17bd0be7ca3b719d98d54fee8b5829b7da84",
-      "download_count": 160,
+      "download_count": 162,
       "created_at": "2026-10-06T18:33:57Z",
       "updated_at": "2026-10-06T18:33:57Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_LinuxDEB_amd64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2181248,
       "digest": "sha256:333b60891636866a9f87a3c907c7255c4145b80750112c589240fdd8c3541dc9",
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2026-10-06T18:33:58Z",
       "updated_at": "2026-10-06T18:33:59Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_LinuxDEB_arm64.deb"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 2580480,
       "digest": "sha256:070b366c28bca5d0885be3a298be82785ac5fcd60c36346776c71716583ec23c",
-      "download_count": 148,
+      "download_count": 151,
       "created_at": "2026-10-06T18:33:12Z",
       "updated_at": "2026-10-06T18:33:13Z",
       "browser_download_url": "https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_Windows_64-bit.msi"
