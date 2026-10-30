@@ -1,0 +1,150 @@
+about:
+  description: "Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed."
+  license: Apache-2.0
+  homepage: https://github.com/domcyrus/rustnet#quick-start
+  head: 7af8d61
+  archived: false
+  latestVersion: "v1.7.0"
+  latestRelease: "v1.7.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T05:52:44Z
+timeline:
+  created: 2025-04-27
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-06
+  lastRelease: 2026-10-06
+  lastPrerelease: 
+popularity:
+  star: 5192
+  watcher: 28
+  fork: 245
+  release: 26
+  contributor: 12
+  pullRequest: 589
+  issue: 109
+language:
+  Rust: 3333665
+  Python: 23041
+  C: 20714
+  Shell: 17265
+  Dockerfile: 4373
+  Tape: 2692
+totalBytes: 3401750
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 1
+    mergedPR: 48
+    openPR: 2
+    closedIssue: 4
+    openIssue: 0
+    commit: 48
+  last60d:
+    since: 2026-08-31
+    release: 1
+    mergedPR: 89
+    openPR: 3
+    closedIssue: 8
+    openIssue: 1
+    commit: 88
+  last90d:
+    since: 2026-08-01
+    release: 2
+    mergedPR: 158
+    openPR: 3
+    closedIssue: 9
+    openIssue: 1
+    commit: 156
+  last180d:
+    since: 2026-05-03
+    release: 5
+    mergedPR: 329
+    openPR: 10
+    closedIssue: 55
+    openIssue: 18
+    commit: 328
+  last360d:
+    since: 2025-11-04
+    release: 11
+    mergedPR: 482
+    openPR: 11
+    closedIssue: 68
+    openIssue: 18
+    commit: 530
+  last720d:
+    since: 2024-11-09
+    release: 26
+    mergedPR: 528
+    openPR: 11
+    closedIssue: 91
+    openIssue: 18
+    commit: 812
+total:
+  release: 26
+  mergedPR: 528
+  openPR: 11
+  closedIssue: 91
+  openIssue: 18
+  commit: 812
+---
+path: /home/runner/.x-repo/github.com/domcyrus/rustnet
+collectedAt: 2026-10-30T05:52:49Z
+loc:
+  CHeader:
+    code: 132489
+    comments: 47
+    blanks: 17623
+    files: 5
+  Rust:
+    code: 73165
+    comments: 3715
+    blanks: 8057
+    files: 196
+  Python:
+    code: 489
+    comments: 28
+    blanks: 89
+    files: 4
+  Toml:
+    code: 371
+    comments: 59
+    blanks: 50
+    files: 6
+  Sh:
+    code: 357
+    comments: 124
+    blanks: 78
+    files: 7
+  C:
+    code: 152
+    comments: 30
+    blanks: 29
+    files: 3
+  RPMSpecfile:
+    code: 145
+    comments: 19
+    blanks: 26
+    files: 1
+  Dockerfile:
+    code: 43
+    comments: 48
+    blanks: 17
+    files: 1
+  Svg:
+    code: 40
+    comments: 0
+    blanks: 0
+    files: 4
+  Markdown:
+    code: 0
+    comments: 7383
+    blanks: 2534
+    files: 33
+total:
+  code: 207878
+  comments: 17248
+  blanks: 29157
+  files: 260
+---
+
+---
