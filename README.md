@@ -33,27 +33,27 @@ Total: **207,251** lines of code across **218** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.0` (2026-10-06)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 5,192 · **Forks**: 245 · **Open issues**: 109 · **Contributors**: 12
+- **Stars**: 5,196 · **Forks**: 246 · **Open issues**: 109 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 528 · **Open PRs**: 11 · **Closed issues**: 91 · **Open issues**: 18 · **Commits**: 812
+- **Releases**: 26 · **Merged PRs**: 529 · **Open PRs**: 11 · **Closed issues**: 91 · **Open issues**: 18 · **Commits**: 813
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 48 | 2 | 4 | 0 | 48 |
-| last60d | 2026-08-31 | 1 | 89 | 3 | 8 | 1 | 88 |
-| 90d | 2026-08-01 | 2 | 158 | 3 | 9 | 1 | 156 |
-| last180d | 2026-05-03 | 5 | 329 | 10 | 55 | 18 | 328 |
-| 360d | 2025-11-04 | 11 | 482 | 11 | 68 | 18 | 530 |
-| last720d | 2024-11-09 | 26 | 528 | 11 | 91 | 18 | 812 |
+| 30d | 2026-10-01 | 1 | 48 | 2 | 4 | 0 | 49 |
+| last60d | 2026-09-01 | 1 | 88 | 3 | 8 | 1 | 89 |
+| 90d | 2026-08-02 | 2 | 159 | 3 | 9 | 1 | 157 |
+| last180d | 2026-05-04 | 5 | 330 | 10 | 55 | 18 | 329 |
+| 360d | 2025-11-05 | 11 | 483 | 11 | 68 | 18 | 531 |
+| last720d | 2024-11-10 | 26 | 529 | 11 | 91 | 18 | 813 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:52:57Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:38:48Z._
