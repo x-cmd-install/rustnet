@@ -38,22 +38,22 @@ Total: **210,552** lines of code across **227** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,238 · **Forks**: 248 · **Open issues**: 114 · **Contributors**: 13
+- **Stars**: 5,240 · **Forks**: 248 · **Open issues**: 114 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 554 · **Open PRs**: 7 · **Closed issues**: 101 · **Open issues**: 13 · **Commits**: 838
+- **Releases**: 26 · **Merged PRs**: 554 · **Open PRs**: 8 · **Closed issues**: 101 · **Open issues**: 13 · **Commits**: 838
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 44 | 1 | 7 | 1 | 47 |
-| last60d | 2026-09-15 | 1 | 101 | 1 | 11 | 2 | 106 |
-| 90d | 2026-08-16 | 2 | 141 | 2 | 13 | 2 | 144 |
-| last180d | 2026-05-18 | 4 | 337 | 5 | 60 | 8 | 335 |
-| 360d | 2025-11-19 | 11 | 504 | 7 | 78 | 13 | 552 |
-| last720d | 2024-11-24 | 26 | 554 | 7 | 101 | 13 | 838 |
+| 30d | 2026-10-16 | 0 | 42 | 2 | 6 | 1 | 47 |
+| last60d | 2026-09-16 | 1 | 100 | 2 | 11 | 2 | 106 |
+| 90d | 2026-08-17 | 2 | 141 | 3 | 13 | 2 | 144 |
+| last180d | 2026-05-19 | 4 | 335 | 6 | 59 | 8 | 335 |
+| 360d | 2025-11-20 | 11 | 502 | 8 | 78 | 13 | 552 |
+| last720d | 2024-11-25 | 26 | 554 | 8 | 101 | 13 | 838 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:19:59Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:28:17Z._
