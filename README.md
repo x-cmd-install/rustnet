@@ -33,27 +33,27 @@ Total: **210,552** lines of code across **227** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.0` (2026-10-06)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-19
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 5,246 · **Forks**: 248 · **Open issues**: 114 · **Contributors**: 13
+- **Stars**: 5,248 · **Forks**: 248 · **Open issues**: 114 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 558 · **Open PRs**: 9 · **Closed issues**: 101 · **Open issues**: 13 · **Commits**: 842
+- **Releases**: 26 · **Merged PRs**: 559 · **Open PRs**: 10 · **Closed issues**: 101 · **Open issues**: 13 · **Commits**: 843
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 34 | 2 | 4 | 1 | 35 |
-| last60d | 2026-09-20 | 1 | 100 | 3 | 11 | 2 | 97 |
-| 90d | 2026-08-21 | 1 | 137 | 4 | 13 | 2 | 127 |
-| last180d | 2026-05-23 | 4 | 326 | 7 | 49 | 7 | 321 |
-| 360d | 2025-11-24 | 10 | 504 | 9 | 78 | 13 | 536 |
-| last720d | 2024-11-29 | 26 | 558 | 9 | 101 | 13 | 842 |
+| 30d | 2026-10-21 | 0 | 34 | 3 | 4 | 1 | 36 |
+| last60d | 2026-09-21 | 1 | 96 | 4 | 10 | 2 | 98 |
+| 90d | 2026-08-22 | 1 | 136 | 5 | 12 | 2 | 128 |
+| last180d | 2026-05-24 | 4 | 327 | 8 | 49 | 7 | 322 |
+| 360d | 2025-11-25 | 10 | 505 | 10 | 78 | 13 | 537 |
+| last720d | 2024-11-30 | 26 | 559 | 10 | 101 | 13 | 843 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:18:17Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:57:20Z._
