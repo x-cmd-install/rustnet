@@ -1,24 +1,4 @@
-- repo: scoop
-  subrepo: main
-  binname: rustnet
-  visiblename: rustnet
-  version: 1.7.0
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
-- repo: nix_unstable
-  srcname: rustnet
-  visiblename: rustnet
-  version: 1.6.0
-  origversion: null
-  status: outdated
-  summary: High-performance, cross-platform network monitoring terminal UI tool built with Rust
-  maintainers:
-    - nixpkgs-maintainer@varum.dk
-  licenses:
-    - Apache-2.0
-- repo: parabola
+- repo: manjaro_unstable
   subrepo: extra
   srcname: rustnet
   binname: rustnet
@@ -29,24 +9,6 @@
   summary: Real-time network monitoring TUI with process identification via eBPF and deep packet inspection
   licenses:
     - Apache-2.0
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: rustnet
-  binnames:
-    - rustnet
-    - rustnet-debuginfo
-    - rustnet-debugsource
-  visiblename: rustnet
-  version: 0.18.0
-  origversion: 0.18.0-1
-  status: outdated
-  summary: A network monitoring terminal UI tool
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - ASL 2.0
-  categories:
-    - Monitoring
 - repo: alpine_edge
   subrepo: community
   srcname: rustnet
@@ -189,24 +151,13 @@
   srcname: rustnet
   binname: rustnet
   visiblename: rustnet
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: outdated
-  summary: Real-time network monitoring TUI with process identification via eBPF and deep packet inspection
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: rustnet
-  binname: rustnet
-  visiblename: rustnet
   version: 1.7.0
   origversion: 1.7.0-1
   status: newest
   summary: Real-time network monitoring TUI with process identification via eBPF and deep packet inspection
   licenses:
     - Apache-2.0
-- repo: manjaro_unstable
+- repo: manjaro_testing
   subrepo: extra
   srcname: rustnet
   binname: rustnet
@@ -226,6 +177,55 @@
   summary: High-performance, cross-platform network monitoring terminal UI tool built with Rust
   maintainers:
     - nixpkgs-maintainer@varum.dk
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: rustnet
+  visiblename: rustnet
+  version: 1.6.0
+  origversion: null
+  status: outdated
+  summary: High-performance, cross-platform network monitoring terminal UI tool built with Rust
+  maintainers:
+    - nixpkgs-maintainer@varum.dk
+  licenses:
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: rustnet
+  binname: rustnet
+  visiblename: rustnet
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: newest
+  summary: Real-time network monitoring TUI with process identification via eBPF and deep packet inspection
+  licenses:
+    - Apache-2.0
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: rustnet
+  binnames:
+    - rustnet
+    - rustnet-debuginfo
+    - rustnet-debugsource
+  visiblename: rustnet
+  version: 0.18.0
+  origversion: 0.18.0-1
+  status: outdated
+  summary: A network monitoring terminal UI tool
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - ASL 2.0
+  categories:
+    - Monitoring
+- repo: scoop
+  subrepo: main
+  binname: rustnet
+  visiblename: rustnet
+  version: 1.7.0
+  origversion: null
+  status: newest
   licenses:
     - Apache-2.0
 - repo: terra_rawhide
