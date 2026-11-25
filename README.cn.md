@@ -38,22 +38,22 @@ x install rustnet
 
 ## 流行度
 
-- **Star**: 5,258 · **Fork**: 248 · **开放 issue**: 114 · **贡献者**: 13
+- **Star**: 5,262 · **Fork**: 250 · **开放 issue**: 114 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 566 · **开放 PR**: 10 · **已关闭 issue**: 101 · **开放 issue**: 13 · **提交数**: 851
+- **发布数**: 26 · **已合并 PR**: 566 · **开放 PR**: 11 · **已关闭 issue**: 101 · **开放 issue**: 13 · **提交数**: 851
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 39 | 3 | 4 | 1 | 38 |
-| last60d | 2026-09-25 | 1 | 92 | 4 | 10 | 1 | 88 |
-| 90d | 2026-08-26 | 1 | 131 | 5 | 12 | 2 | 128 |
-| last180d | 2026-05-28 | 4 | 317 | 7 | 41 | 6 | 301 |
-| 360d | 2025-11-29 | 10 | 511 | 10 | 77 | 13 | 543 |
-| last720d | 2024-12-04 | 26 | 566 | 10 | 101 | 13 | 851 |
+| 30d | 2026-10-26 | 0 | 38 | 4 | 4 | 1 | 38 |
+| last60d | 2026-09-26 | 1 | 90 | 5 | 10 | 1 | 88 |
+| 90d | 2026-08-27 | 1 | 130 | 6 | 12 | 2 | 128 |
+| last180d | 2026-05-29 | 4 | 315 | 8 | 37 | 6 | 301 |
+| 360d | 2025-11-30 | 10 | 511 | 11 | 77 | 13 | 543 |
+| last720d | 2024-12-05 | 26 | 566 | 11 | 101 | 13 | 851 |
 
 ## Release 资产
 
@@ -82,18 +82,6 @@ x install rustnet
 | [Rustnet_Windows_32-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_Windows_32-bit.msi) | 2.4 MiB | `native/win/x64` |
 | [Rustnet_Windows_64-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_Windows_64-bit.msi) | 2.5 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/rustnet) 上共有 **27** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.7.0` | ✅ latest |
-| Homebrew | `1.7.0` | ✅ latest |
-| Nix unstable | `1.6.0` | ⚠️ outdated |
-| Void | `1.7.0` | ✅ latest |
-| Alpine edge | `1.7.0` | ✅ latest |
-
 ## 改进这些数据
 
 rustnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `rustnet` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -103,4 +91,4 @@ rustnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:26:23Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:41:08Z._

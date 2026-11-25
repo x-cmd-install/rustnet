@@ -38,22 +38,22 @@ Total: **215,895** lines of code across **229** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,258 · **Forks**: 248 · **Open issues**: 114 · **Contributors**: 13
+- **Stars**: 5,262 · **Forks**: 250 · **Open issues**: 114 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 566 · **Open PRs**: 10 · **Closed issues**: 101 · **Open issues**: 13 · **Commits**: 851
+- **Releases**: 26 · **Merged PRs**: 566 · **Open PRs**: 11 · **Closed issues**: 101 · **Open issues**: 13 · **Commits**: 851
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 39 | 3 | 4 | 1 | 38 |
-| last60d | 2026-09-25 | 1 | 92 | 4 | 10 | 1 | 88 |
-| 90d | 2026-08-26 | 1 | 131 | 5 | 12 | 2 | 128 |
-| last180d | 2026-05-28 | 4 | 317 | 7 | 41 | 6 | 301 |
-| 360d | 2025-11-29 | 10 | 511 | 10 | 77 | 13 | 543 |
-| last720d | 2024-12-04 | 26 | 566 | 10 | 101 | 13 | 851 |
+| 30d | 2026-10-26 | 0 | 38 | 4 | 4 | 1 | 38 |
+| last60d | 2026-09-26 | 1 | 90 | 5 | 10 | 1 | 88 |
+| 90d | 2026-08-27 | 1 | 130 | 6 | 12 | 2 | 128 |
+| last180d | 2026-05-29 | 4 | 315 | 8 | 37 | 6 | 301 |
+| 360d | 2025-11-30 | 10 | 511 | 11 | 77 | 13 | 543 |
+| last720d | 2024-12-05 | 26 | 566 | 11 | 101 | 13 | 851 |
 
 ## Release assets
 
@@ -82,18 +82,6 @@ Total: **215,895** lines of code across **229** files in the top 5 languages.
 | [Rustnet_Windows_32-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_Windows_32-bit.msi) | 2.4 MiB | `native/win/x64` |
 | [Rustnet_Windows_64-bit.msi](https://github.com/domcyrus/rustnet/releases/download/v1.7.0/Rustnet_Windows_64-bit.msi) | 2.5 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **27** distros on [repology.org](https://repology.org/project/rustnet). **16** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.7.0` | ✅ latest |
-| Homebrew | `1.7.0` | ✅ latest |
-| Nix unstable | `1.6.0` | ⚠️ outdated |
-| Void | `1.7.0` | ✅ latest |
-| Alpine edge | `1.7.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rustnet` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +91,4 @@ Install metadata for rustnet lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:26:22Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:41:08Z._
